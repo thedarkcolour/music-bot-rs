@@ -1,0 +1,3 @@
+/target
+# These scripts set private environment vars and then `cargo run`
+/.vscode
